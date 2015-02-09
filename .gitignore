@@ -1,0 +1,19 @@
+
+#for MacOSX
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+#for repository
+*.o
+tags
+*.a
+*/Makefile
+*.eps
+*.xlsx
+*/european_option_blackscholes_mlmc
+*/european_option_heston_mlmc
+*/asian_option_blackscholes_mlmc
+*/asian_option_heston_mlmc
+
