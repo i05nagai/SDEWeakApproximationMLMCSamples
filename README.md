@@ -33,7 +33,7 @@ This samples depend on a library([SDE\_WA\_MLMC](https://github.com/i05nagai/SDE
 
 In MacOSX and Linux, you need to make a path or create a symbolic link to `libsde_wa.a`, which is the library of SDE\_WA\_MLMC, as below.
 
-	`ln -s SDEWeakApproximation/libsde_wa.a SDEWeakApproximationMLMCSamples/libsde_wa.a`
+	ln -s SDEWeakApproximation/libsde_wa.a SDEWeakApproximationMLMCSamples/libsde_wa.a
 
 ## Usage
 
